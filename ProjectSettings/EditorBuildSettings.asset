@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/TestingUIScene.unity
+    guid: d3d55280a6946f64ab041cc7509d92aa
+  - enabled: 0
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 6b48aade9965b5649ba6b25649116479
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d248b4a0ab7221f4fa0d78f520e859c8
+  - enabled: 0
+    path: Assets/Scenes/Settings.unity
+    guid: 9923285562ff1c74685b7efb20ad01cb
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: c8a9d1312a49dc8488a9b32d83d659c7
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 31b22289997e69645815c393baf0edec
+  - enabled: 0
+    path: Assets/Scenes/Leaderboard.unity
+    guid: 3c9880eb9cea0b14b8e29101204bd451
+  - enabled: 0
+    path: Assets/Scenes/LoginScreen.unity
+    guid: df0b51896166ee540b7311d4aefe8f2a
+  - enabled: 0
+    path: Assets/Scenes/Shop.unity
+    guid: f448e29dae2812245aaf6b79cc652212
+  - enabled: 1
+    path: Assets/Scenes/TwitchIntegrationScene.unity
+    guid: cb9f290f42a65ea45abed6891bb71720
+  m_configObjects: {}
